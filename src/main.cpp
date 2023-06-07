@@ -15,7 +15,7 @@ int main() {
     threadLvgl.unlock();
 
     while (1) {
-        // put your main code here, to run repeatedly:aaaa
+        // put your main code here, to run repeatedly:aaaaaa
         ThisThread::sleep_for(10ms);
     }
 }
